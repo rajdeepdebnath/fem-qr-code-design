@@ -120,10 +120,11 @@ body {
 /* flex END*/
 
 /* font */
-.fs-13{
+.fs-main{
     font-size: 13px;
 }
-.fs-10{
+ 
+.fs-subtext{
     font-size: 10px;
 }
 
