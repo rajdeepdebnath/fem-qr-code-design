@@ -1,0 +1,8 @@
+@media(max-width:750px){
+    .w-responsive{
+        width: 80%;
+    }
+    .h-responsive{
+        height: 80vh;
+    }
+}
